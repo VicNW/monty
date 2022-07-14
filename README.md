@@ -1,3 +1,7 @@
+# Monty 
+## Project details
+# Authors
+[Victor Nwosu] & [Patrick Akuagwu]
 ## 0x18. C - Stacks, Queues - LIFO, FIFO
   <h4 class="task">
     0. push, pall
